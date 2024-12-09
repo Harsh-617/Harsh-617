@@ -19,7 +19,7 @@ if st.session_state.page == "Home":
         # Define two columns with different widths
         col1, col2 = st.columns([1, 2])
         with col1:
-            st.image(r"C:\Users\LENOVO-PC\PycharmProjects\website1\images\image.png", width=180)
+            st.image("images/image.png", width=180)
 
         with col2:
             # Use HTML to control text size and style
