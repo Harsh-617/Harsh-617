@@ -26,8 +26,9 @@ if st.session_state.page == "Home":
             st.markdown("""
                 <div style="font-size:18px;">
                     <strong>About me:</strong><br>
-                    Hi, I’m <strong>Harsh Kudu</strong>, a 17-year-old student living near Mumbai, India. I recently passed my 12th boards and am excited to pursue a Bachelor’s degree in Computer Science at APU Malaysia.<br>
-                    I am passionate about programming and the tech industry, currently focusing on learning Python.
+                    Hi, my name is Harsh Kudu, and I am a 17-year-old student currently pursuing a Bachelor's (Hons) in Computer Science at Asia Pacific University, Malaysia.
+                    My passion for technology has always driven me to explore and learn about the tech field, which is why I chose Computer Science as my path.
+                    I have experience in Python programming and a basic understanding of HTML, CSS, and C++. I am eager to enhance my skills further and contribute to exciting projects in the tech world.
                 </div>
                 """, unsafe_allow_html=True)
 
