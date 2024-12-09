@@ -52,7 +52,7 @@ if st.session_state.page == "Home":
         col1, col2 = st.columns([1,2])
         with col1:
             st.markdown("<br>", unsafe_allow_html=True)
-            st.image(r'C:\Users\LENOVO-PC\PycharmProjects\website1\images\15.png',width=240)
+            st.image('images/15.png',width=240)
 
             st.markdown("""
                 <div style="text-align: center; padding-left: 50px;">
@@ -96,7 +96,7 @@ if st.session_state.page == "Home":
 
         with col2:
             st.markdown("<br>", unsafe_allow_html=True)
-            st.image(r'C:\Users\LENOVO-PC\PycharmProjects\website1\images\18.png',width=240)
+            st.image('images/18.png',width=240)
             st.markdown("<br>", unsafe_allow_html=True)
 
             st.markdown("""
@@ -117,7 +117,7 @@ if st.session_state.page == "Home":
         col1, col2 = st.columns([1,2])
         with col1:
             st.markdown("<br>", unsafe_allow_html=True)
-            st.image(r'C:\Users\LENOVO-PC\PycharmProjects\website1\images\11.png',width=230)
+            st.image('images/11.png',width=230)
             st.markdown("<br>", unsafe_allow_html=True)
 
             st.markdown("""
@@ -166,7 +166,7 @@ if st.session_state.page == "Home":
 
         with col2:
             st.markdown("<br>", unsafe_allow_html=True)
-            st.image(r'C:\Users\LENOVO-PC\PycharmProjects\website1\images\7.png',width=235)
+            st.image('images/7.png',width=235)
             st.markdown("<br>", unsafe_allow_html=True)
 
             st.markdown("""
