@@ -381,10 +381,10 @@ elif st.session_state.page == "Contact":
                 <i class="fa-solid fa-envelope icon"></i>harshkudu67@gmail.com
             </div><br>
             <div class="inner-border">
-                <i class="fa-solid fa-phone icon"></i>+91 9309564620
+                <i class="fa-solid fa-phone icon"></i>+60 14-218 0240
             </div><br>
             <div class="inner-border">
-                <i class="fa-solid fa-location-dot icon"></i>Mumbai, India
+                <i class="fa-solid fa-location-dot icon"></i>Kuala Lumpur, Malaysia
             </div>
         </div>
         """, unsafe_allow_html=True)
