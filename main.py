@@ -319,7 +319,7 @@ if st.session_state.page == "Home":
                 <p class="small-text">Thank you</p>
                 <div class="columns">
                     <div class="column"> <div class="fs"> <a href="https://github.com/Harsh-617" target="_blank"> <i class="fab fa-github" aria-hidden="true"></i> </a> </div></div>
-                    <div class="column"> <div class="fs"> <a href="https://www.linkedin.com/in/yourusername" target="_blank"> <i class="fas fa-envelope" aria-hidden="true"></i> </a> </div></div>
+                    <div class="column"> <div class="fs"> <a href="www.linkedin.com/in/harsh-kudu-9389a2340" target="_blank"> <i class="fas fa-envelope" aria-hidden="true"></i> </a> </div></div>
                     <div class="column"> <div class="fs"> <a href="mailto:harshkudu67@gmail.com"> <i class="fab fa-linkedin" aria-hidden="true"></i> </a> </div></div>
                 </div>
                 <div>2024 | Harsh Kudu</div>
@@ -444,7 +444,7 @@ elif st.session_state.page == "Contact":
                 <a href="https://github.com/Harsh-617" target="_blank">
                     <i class="fab fa-github"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+                <a href="www.linkedin.com/in/harsh-kudu-9389a2340" target="_blank">
                     <i class="fab fa-linkedin"></i>
                 </a>
                 <a href="harshkudu67@gmail.com">
