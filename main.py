@@ -57,7 +57,7 @@ if st.session_state.page == "Home":
             st.markdown("""
                 <div style="text-align: center; padding-left: 50px;">
                     <button style="background-color: #604EFF; color: white; border: 2px solid #52FF86; border-radius: 36px; padding: 10px 20px;">
-                        <a href="https://github.com/Harsh-617" target="_blank" style="text-decoration: none; color: white;">Button</a>
+                        <a href="https://github.com/Harsh-617/ToDo_webapp" target="_blank" style="text-decoration: none; color: white;">Button</a>
                     </button>
                 </div>
                 """, unsafe_allow_html=True)
@@ -102,7 +102,7 @@ if st.session_state.page == "Home":
             st.markdown("""
                 <div style="text-align: center; padding-left: 50px;">
                     <button style="background-color: #604EFF; color: white; border: 2px solid #52FF86; border-radius: 36px; padding: 10px 20px;">
-                        <a href="https://github.com/Harsh-617" target="_blank" style="text-decoration: none; color: white;">Button</a>
+                        <a href="https://github.com/Harsh-617/codes" target="_blank" style="text-decoration: none; color: white;">Button</a>
                     </button>
                 </div>
                 """, unsafe_allow_html=True)
@@ -172,7 +172,7 @@ if st.session_state.page == "Home":
             st.markdown("""
                 <div style="text-align: center; padding-left: 50px;">
                     <button style="background-color: #604EFF; color: white; border: 2px solid #52FF86; border-radius: 36px; padding: 10px 20px;">
-                        <a href="https://github.com/Harsh-617" target="_blank" style="text-decoration: none; color: white;">Button</a>
+                        <a href="https://github.com/Harsh-617/codes" target="_blank" style="text-decoration: none; color: white;">Button</a>
                     </button>
                 </div>
                 """, unsafe_allow_html=True)
